@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/lay2"
+    android:background="#7C9DDF"
+    >
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="বঙ্গবন্ধু শেখ মুজিবুররহমানের জীবনী"
+        android:background="#90FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="প্রাথমিক জীবন/জন্ম ও শিক্ষা"
+        android:background="#90FFFFFF"/>
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="তৎকালীন পাকিস্থানের রাজনৈতিক নেতৃত্ব"
+        android:background="#90FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="যুক্তফ্রন্ট নির্বাচনে বঙ্গবন্ধুর অবদান"
+        android:background="#90FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="ছয় দফা আন্দোলন ও আগরতলা ষড়যন্ত্র মামলা"
+        android:background="#90FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="৬৯ এর গণঅভ্যুন্থান ও ১৯৭০-এর নির্বাচন"
+        android:background="#90FFFFFF"
+        />
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:text="বঙ্গবন্ধু্র ঐতিহাসিক ৭ই মার্চের ভাষণ ও মুক্তিযুদ্ধের চেতনা"
+        android:background="#90FFFFFF"
+        />
+
+</LinearLayout>
